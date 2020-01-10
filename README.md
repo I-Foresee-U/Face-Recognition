@@ -1,3 +1,5 @@
+# Face-Recognition
+
 This folder contains 5 .py files and a subfolder of data.
 
 The functions in "data_processing.py" will be invoked by all the models.
