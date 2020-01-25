@@ -1,5 +1,11 @@
 # Face-Recognition
 
+The problem description is shown in "EE5907_CA2.pdf".
+
+The results are shown in "**Report.pdf**".
+
+---
+
 This "Code" folder contains 5 .py files and a subfolder of data.
 
 The functions in "data_processing.py" will be invoked by all the models.
